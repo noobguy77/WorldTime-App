@@ -9,6 +9,6 @@ Packages used-
 
 API used-
 worldtimeapi.org
-
+(Simple JSON/plain-text API to obtain the current time in, and related data about, a timzone.)
 
 The app displays time of different cities around the world.
