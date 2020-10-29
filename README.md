@@ -1,16 +1,14 @@
-# world_time_app
+# World time App
 
-A new Flutter application.
+My very first flutter application.
 
-## Getting Started
+Packages used-
+1) http
+2) intl
+3) flutter_spinkit
 
-This project is a starting point for a Flutter application.
+API used-
+worldtimeapi.org
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app displays time of different cities around the world.
