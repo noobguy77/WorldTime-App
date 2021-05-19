@@ -1,6 +1,5 @@
 # World time App
 
-My very first flutter application.
 <br>
 [![HitCount](http://hits.dwyl.com/jayanth-naidu/first-website.svg)](http://hits.dwyl.com/jayanth-naidu/first-website)
 
